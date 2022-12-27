@@ -12,3 +12,17 @@ C:\Vue\Blue\dotnet\WebApiAgenda\data\obj\Debug\net6.0\refint\Data.dll
 C:\Vue\Blue\dotnet\WebApiAgenda\data\obj\Debug\net6.0\Data.pdb
 C:\Vue\Blue\dotnet\WebApiAgenda\data\obj\Debug\net6.0\Data.genruntimeconfig.cache
 C:\Vue\Blue\dotnet\WebApiAgenda\data\obj\Debug\net6.0\ref\Data.dll
+C:\Vue\Blue\agenda_blue\dotnet\WebApiAgenda\Data\bin\Debug\net6.0\Data.deps.json
+C:\Vue\Blue\agenda_blue\dotnet\WebApiAgenda\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Vue\Blue\agenda_blue\dotnet\WebApiAgenda\Data\bin\Debug\net6.0\Data.dll
+C:\Vue\Blue\agenda_blue\dotnet\WebApiAgenda\Data\bin\Debug\net6.0\Data.pdb
+C:\Vue\Blue\agenda_blue\dotnet\WebApiAgenda\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Vue\Blue\agenda_blue\dotnet\WebApiAgenda\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vue\Blue\agenda_blue\dotnet\WebApiAgenda\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Vue\Blue\agenda_blue\dotnet\WebApiAgenda\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Vue\Blue\agenda_blue\dotnet\WebApiAgenda\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Vue\Blue\agenda_blue\dotnet\WebApiAgenda\Data\obj\Debug\net6.0\Data.dll
+C:\Vue\Blue\agenda_blue\dotnet\WebApiAgenda\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Vue\Blue\agenda_blue\dotnet\WebApiAgenda\Data\obj\Debug\net6.0\Data.pdb
+C:\Vue\Blue\agenda_blue\dotnet\WebApiAgenda\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Vue\Blue\agenda_blue\dotnet\WebApiAgenda\Data\obj\Debug\net6.0\ref\Data.dll
