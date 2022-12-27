@@ -1,0 +1,17 @@
+C:\Vue\Blue\dotnet\WebApiAgenda\Domian\bin\Debug\net6.0\Domian.deps.json
+C:\Vue\Blue\dotnet\WebApiAgenda\Domian\bin\Debug\net6.0\Domian.dll
+C:\Vue\Blue\dotnet\WebApiAgenda\Domian\bin\Debug\net6.0\Domian.pdb
+C:\Vue\Blue\dotnet\WebApiAgenda\Domian\bin\Debug\net6.0\Data.dll
+C:\Vue\Blue\dotnet\WebApiAgenda\Domian\bin\Debug\net6.0\Repository.dll
+C:\Vue\Blue\dotnet\WebApiAgenda\Domian\bin\Debug\net6.0\Repository.pdb
+C:\Vue\Blue\dotnet\WebApiAgenda\Domian\bin\Debug\net6.0\Data.pdb
+C:\Vue\Blue\dotnet\WebApiAgenda\Domian\obj\Debug\net6.0\Domian.csproj.AssemblyReference.cache
+C:\Vue\Blue\dotnet\WebApiAgenda\Domian\obj\Debug\net6.0\Domian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vue\Blue\dotnet\WebApiAgenda\Domian\obj\Debug\net6.0\Domian.AssemblyInfoInputs.cache
+C:\Vue\Blue\dotnet\WebApiAgenda\Domian\obj\Debug\net6.0\Domian.AssemblyInfo.cs
+C:\Vue\Blue\dotnet\WebApiAgenda\Domian\obj\Debug\net6.0\Domian.csproj.CoreCompileInputs.cache
+C:\Vue\Blue\dotnet\WebApiAgenda\Domian\obj\Debug\net6.0\Domian.csproj.CopyComplete
+C:\Vue\Blue\dotnet\WebApiAgenda\Domian\obj\Debug\net6.0\Domian.dll
+C:\Vue\Blue\dotnet\WebApiAgenda\Domian\obj\Debug\net6.0\refint\Domian.dll
+C:\Vue\Blue\dotnet\WebApiAgenda\Domian\obj\Debug\net6.0\Domian.pdb
+C:\Vue\Blue\dotnet\WebApiAgenda\Domian\obj\Debug\net6.0\ref\Domian.dll
